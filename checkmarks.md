@@ -37,7 +37,7 @@ waaronder de overlegmomenten met de opdrachtgever.
 
 #B1-K2-W2 Test het ontwikkelde product
 [ ]  Je test tijdens de realisatie regelmatig de werking en functionaliteit van het product en legt dit vast ik een verslag.
-[ ]  Je kiest een maakt gebruikt van de juiste materialen en middelen (controlsoftware) om te testen en legt dit vast in het testverslag.
+[ ]  Je kiest en maakt gebruik van de juiste materialen en middelen (controlsoftware) om te testen en legt dit vast in het testverslag.
 [ ]  Je beoordeelt of er naar aanleiding van de testresultaten mogelijke aanpassingen of veranderingen doorgevoerd moeten worden en legt dit vast in het testverslag.
 
 ## Kerntaak 3 Levert een product op
