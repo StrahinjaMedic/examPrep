@@ -1,3 +1,3 @@
 # examPrep
 
-This file is a prep for my CRUD, IPP exam
+This repo is a prep for my CRUD, IPP exam
