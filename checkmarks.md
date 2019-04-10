@@ -39,3 +39,8 @@ waaronde de overlegmomenten met de opdrachtgever.
 [ ]  Je test tijdens de realisatie regelmatig de werking en functionaliteit van het product en legt dit vast ik een verslag.
 [ ]  Je kiest een maakt gebruikt van de juiste materialen en middelen (controlsoftware) om te testen en legt dit vast in het testverslag.
 [ ]  Je beoordeelt of er naar aanleiding van de testresultaten mogelijke aanpassingen of veranderingen doorgevoerd moeten worden en legt dit vast in het testverslag.
+
+#B1-K3-W3
+[ ]  Je evalueert het product et de opdrachtgever (en het projectteam) en legt dit vast in het evaluatieverslag.
+[ ]  Je beschrijft de verbeterpunten voor het product.
+[ ]  Je evalueert het verloop van het productproces.
