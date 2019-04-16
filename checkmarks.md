@@ -7,7 +7,7 @@
 ## Kerntaak 1 De voorbereiding
 
 #B1-K1-W1 Stelt de opdracht vast
-- [x]  Je overlegt me de opdrachtgever over de eisen en behoeften.
+- []  Je overlegt me de opdrachtgever over de eisen en behoeften.
 - [ ]  Je schrijft een passende analyse.
 - [ ]  Je geeft duidelijk aan of de opdracht realiseerbaar is en waarom (niet).
 
